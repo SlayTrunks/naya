@@ -21,7 +21,7 @@ const MyAudioPlayer = () => {
       // Retrieve previous state from local storage
       const prevIsPlaying = localStorage.getItem('isPlaying') === 'true';
       setIsPlaying(prevIsPlaying);
-    }, []);
+    }, [isPlaying]);
   
     useEffect(() => {
       // Save current state to local storage
