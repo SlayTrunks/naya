@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Instagram Clone",
+        "description": "A clone of the Instagram app using React ",
+        "image": "/insta-clone.png",
+        "github": "https://github.com/SlayTrunks/insta-clone-frontend"
+    },
+    {
+        "name": "Insane Links",
+        "description": "A link sharing app using next js and mongodb",
+        "image": "/insane-links.png",
+        "github": "https://github.com/SlayTrunks/Insane-links",
+        "link": "https://insanelinks.vercel.app/"
+    },
+    {
+        "name":"Insane Blog",
+        "description": "A blog app with crud operation using next js and mongodb",
+        "image": "/insane-blog.png",
+        "github": "https://github.com/SlayTrunks/insane-blog"
+    },
+    {
+        "name":"Foo music",
+        "description": "A music app using react and spotify api",
+        "image": "/foo-music.png",
+        "github": "https://github.com/SlayTrunks/foo-music",
+        "link" : "https://foomusic.netlify.app/"
+    },
+    {
+        "name":"store api",
+        "description": "A store api using node js and mongodb",
+        "image": "/store-api.png",
+        "github": "https://github.com/SlayTrunks/storeApi"
+    },
+    {
+        "name":"Insane anime",
+        "description": "A anime app using react js and gogoanime api ",
+        "image": "/insane-anime.png",
+        "github": "https://github.com/SlayTrunks/watch-anime",
+        "link": "https://animenepal.me"
+    },
+    {
+        "name": "Portfolio",
+        "description": "A portfolio website using next js",
+        "image": "/portfolio.png",
+        "github": "https://github.com/SlayTrunks/portfolio.github.io",
+        "link": "https://diwasniroula.netlify.app"
+    }
+]
