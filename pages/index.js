@@ -83,7 +83,7 @@ const HomePage = () => {
             <p className="pl-7 pt-5 pb-1">1 <span className="pl-3">class Person {'{'}</span>    </p>
             <p className="pl-7 pb-1 ">2<span className="pl-7 ">constructor(name,address,age) {'{'}</span>    </p>
              <p className="pl-7 pb-1 ">3 <span className="pl-11 ">this.name=&quot;Diwas Niroula&quot;;</span>    </p>
-             <p className="pl-7 pb-1">4 <span className="pl-11 ">this.address=&quot;Kathmandu&quot;;</span>    </p>
+             <p className="pl-7 pb-1">4 <span className="pl-11 ">this.address=&quot;Birtamode&quot;;</span>    </p>
              <p className="pl-7 pb-1">5<span className="pl-11 ">this.age={age};</span>    </p>
              <p className="pl-7 pb-1">6 <span className="pl-11 ">{'}'}</span>    </p>
              <p className="pl-7 pb-1">7 <span className="pl-7 ">{'}'}</span>    </p>
@@ -101,7 +101,7 @@ const HomePage = () => {
               3 <span className="pl-11">this.name = &quot;Diwas Niroula&quot;;</span>
             </p>
             <p className="pl-7 pb-1">
-              4 <span className="pl-11">this.address = &quot;Kathmandu&quot;;</span>
+              4 <span className="pl-11">this.address = &quot;Birtamode&quot;;</span>
             </p>
             <p className="pl-7 pb-1">
               5 <span className="pl-11">this.age = {age};</span>
@@ -127,7 +127,7 @@ const HomePage = () => {
               3 <span className="pl-11">self.name = &quot;Diwas Niroula&quot;</span>
             </p>
             <p className="pl-7 pb-1">
-              4 <span className="pl-11">self.address = &quot;Kathmandu&quot;</span>
+              4 <span className="pl-11">self.address = &quot;Birtamode&quot;</span>
             </p>
             <p className="pl-7 pb-1">
               5<span className="pl-11">self.age = {age}</span>
