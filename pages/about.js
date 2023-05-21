@@ -34,7 +34,7 @@ const About = () => {
 
        <h4 className='w-[50%]  max-sm:w-screen max-sm:text-sm max-md:text-base max-md:w-screen '>
 
-  Hi, I&apos;m Insane from Birtamode Jhapa Nepal,
+  Hi, I&apos;m Diwas Niroula from Birtamode Jhapa Nepal,
 
 I&apos;m a passionate full-stack developer constantly learning and improving my skills. My experience includes working with modern web technologies such as Reactjs and Node.js to create optimized websites. I believe in solving real-life problems through programming and enjoy exploring new technologies.
 

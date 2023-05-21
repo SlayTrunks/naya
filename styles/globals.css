@@ -22,7 +22,7 @@ body {
  
   perspective: 1000px;
   perspective-origin: 50% 50%;
-  font-family: 'Lobster', cursive;
+  
 }
 
 @keyframes scroll {
