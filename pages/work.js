@@ -18,7 +18,7 @@ const Work = () => {
       <h1 className="text-3xl font-bold mb-8 mx-[50%] text-pink-600">Projects</h1>
       <div className="flex flex-wrap justify-center gap-8">
         {items.map((project, index) => (
-          <div key={index} className="border p-4 rounded-lg w-64 dark:bg-gray-800">
+          <div key={index} className="border p-4 rounded-lg w-64 ">
             <Image src={project.image} alt={project.name} width={1000} height={900} className="w-full h-40 object-cover mb-4 rounded-lg" />
             <h2 className="text-xl font-bold mb-2 dark:text-white">{project.name}</h2>
             <p className="text-gray-400 mb-4 dark:text-gray-300">{project.description}</p>

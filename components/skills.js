@@ -15,15 +15,15 @@ const Skills = () => {
         </div>
         <div className="p-4 border border-gray-600 rounded-lg">
           <h2 className="text-2xl font-bold mb-4">JavaScript</h2>
-          <p className="text-lg">Experience in JavaScript and modern frameworks like React</p>
+          <p className="text-lg">Experience in JavaScript and modern frameworks like React and Next</p>
         </div>
         <div className="p-4 border border-gray-600 rounded-lg">
           <h2 className="text-2xl font-bold mb-4">Node.js</h2>
-          <p className="text-lg">Proficient in building server-side applications using Node.js</p>
+          <p className="text-lg">Proficient in building server-side applications using Node.js and Express.js</p>
         </div>
         <div className="p-4 border border-gray-600 rounded-lg">
           <h2 className="text-2xl font-bold mb-4">Database</h2>
-          <p className="text-lg">Familiar with SQL and NoSQL databases</p>
+          <p className="text-lg">Familiar with   NoSQL database like mongoDb</p>
         </div>
         <div className="p-4 border border-gray-600 rounded-lg">
           <h2 className="text-2xl font-bold mb-4">Git</h2>
