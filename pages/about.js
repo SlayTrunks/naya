@@ -34,13 +34,12 @@ const About = () => {
 
        <h4 className='w-[50%]  max-sm:w-screen max-sm:text-sm max-md:text-base max-md:w-screen '>
 
-  Hi, I&apos;m Diwas Niroula from Birtamode Jhapa Nepal,
+       Hello! I'm Diwas Niroula from Birtamode, Jhapa, Nepal. I am a passionate full-stack developer dedicated to continuously learning and enhancing my skills. My experience encompasses working with modern web technologies like React.js and Node.js to build optimized and efficient websites. I am a firm believer in using programming to tackle real-world challenges and enjoy exploring new technologies.
 
-I&apos;m a passionate full-stack developer constantly learning and improving my skills. My experience includes working with modern web technologies such as Reactjs and Node.js to create optimized websites. I believe in solving real-life problems through programming and enjoy exploring new technologies.
+Currently, I am delving into Rust for its performance and safety features, and I have a growing interest in machine learning, as well as the underlying mathematics and physics that drive these innovations. I am actively seeking new opportunities in software engineering where I can apply my skills and contribute to meaningful projects.
 
-<span >
-Currently, I am exploring new opportunities in the field of software engineering where I can apply my skills and contribute to meaningful projects. When I&apos;m not coding, I enjoy spending time with nature, playing chess, and meeting friends. My development process is very hands-on and I always strive to do something new and innovative.
-</span>
+When I'm not coding, I love spending time gaming, playing chess, and connecting with friends. My development approach is very hands-on, and I always strive to create something new and innovative.
+
         </h4>
         
        </div>

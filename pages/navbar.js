@@ -34,19 +34,19 @@ const Navbar = () => {
       </Link>
     
     
-    <Link href={'/work'}>
+      {/* <Link href={'/work'}>
       <ul>
       <li className='lic'>
-      <div className="work-icon">
+     <div className="work-icon">
         
-        <div className="paper"></div>
+       <div className="paper"></div>
+       <div className="lines"></div>
         <div className="lines"></div>
-        <div className="lines"></div>
-        <div className="lines"></div>
-      </div>
+       <div className="lines"></div>
+     </div>
     </li>
-      </ul>
-    </Link>
+     </ul>
+    </Link>  */}
     <a href={'mailto:nirouladiwas7@gmail.com'}>
     <ul>
     <li className='lid'>
